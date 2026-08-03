@@ -1,4 +1,4 @@
-# Experiência Prática IV - DriveLoc (Locadora de Veículos)
+DriveLoc (Locadora de Veículos)
 
 ## Descrição
 Projeto de Banco de Dados para gerenciamento de locadora de veículos. Inclui DDL para criação do esquema, DML para inserção de dados, consultas avançadas e operações de manutenção.
